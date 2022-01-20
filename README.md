@@ -1,2 +1,2 @@
 # web
-This is my GitHub web
+This is my GitHub
